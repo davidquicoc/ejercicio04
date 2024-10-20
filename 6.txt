@@ -1,0 +1,3 @@
+archivo 6.txt
+De la rama inicial
+Creado el 20/10/2024 a las 20:05
