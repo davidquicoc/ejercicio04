@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 16 de octubre de 2024
 16:03
+=======
+archivo 1.txt
+De la rama inicial
+Creado el 20/10/2024 a las 20:04
+>>>>>>> inicial
